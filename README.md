@@ -38,4 +38,3 @@ sudo restart apache2
 
 📌This is the very basic use of cloud, where I have demonstrated the use of instances. The use cases of cloud are beyond what we can actually think. Hope this information served the needful. Thanks for your time, happy learning.
 
-hashtag#AWS hashtag#cloud hashtag#devops hashtag#learn hashtag#grow
